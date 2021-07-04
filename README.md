@@ -2,7 +2,7 @@
 
 # The Project is about Student Study Portal 
 
-# The Study Portal have 8 sections i.e notes,todo,homework,youtube,wikipedia,dictionary,books,conversion
+# The Study Portal is having 8 sections i.e notes,todo,homework,youtube,wikipedia,dictionary,books,conversion
 
 
 #This is a Django project
